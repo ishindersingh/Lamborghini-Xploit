@@ -4,7 +4,7 @@
 Lamborghini Xploit is a Python-based Tool designed to perform various remote operations on a Windows system, such as taking screenshots, capturing webcam photos, executing commands, and more. This project includes a setup script to configure the bot and convert it into an executable file.
 
 **Warning**: This tool is for educational purposes only. Team IRA is not responsible for any misuse of this software. Ensure you have proper authorization before using it on any system.
-
+https://github.com/ishindersingh/Lamborghini-Xploit/blob/main/lamborghini.JPG
 ## Features
 - **Telegram Bot Commands**:
   - `/help`: Displays available commands.
