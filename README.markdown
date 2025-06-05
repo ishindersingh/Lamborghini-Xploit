@@ -5,7 +5,7 @@ Lamborghini Xploit is a Python-based Tool designed to perform various remote ope
 
 **Warning**: This tool is for educational purposes only. Team IRA is not responsible for any misuse of this software. Ensure you have proper authorization before using it on any system.
 
-![Lamborghini Exploit](https://github.com/ishindersingh/Lamborghini-Xploit/blob/main/lamborghini.JPG)
+![Lamborghini Exploit](https://github.com/ishindersingh/Lamborghini-Xploit/blob/main/lamborghini.JPG?raw=true)
 
 ## Features
 - **Telegram Bot Commands**:
