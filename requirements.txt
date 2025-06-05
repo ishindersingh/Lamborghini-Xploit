@@ -1,0 +1,7 @@
+requests
+pyautogui
+opencv-python
+pycryptodome
+pywin32
+pyTelegramBotAPI
+pyinstaller
